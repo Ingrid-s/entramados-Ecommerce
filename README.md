@@ -1,24 +1,22 @@
 #ENTRAMADOS e-comerce 
 
 ### Vista previa 
-
-<img src=assets/img/screencapture.png>
-
-### V1.0.0
-
 ![entramados](https://user-images.githubusercontent.com/32857528/38595904-0671e49a-3d14-11e8-9214-45ef7d1d1668.png)
 
 
+### V1.0.0
+
+
 ## Tabla de Contenido
-1. [Herramientas utilizadas](##herramientas)
-2. [Descripción de producto](##descripcion)
-3. [Descripción funcional](##descripcion-func)
-    1. [Navegación](##navegacion)
-4. [Fundamentos del producto](##fundamentos)
-    1. [Usuario objetivo](##usuario)
-    2. [Research](##research)
-    3. [Problemas a resolver para el usuario](##problemas)
-5. [Planeación](##planeacion)
+1. [Herramientas utilizadas](#herramientas)
+2. [Descripción de producto](#descripcion)
+3. [Descripción funcional](#descripcion-func)
+    1. [Navegación](#navegacion)
+4. [Fundamentos del producto](#fundamentos)
+    1. [Usuario objetivo](#usuario)
+    2. [Research](#esearch)
+    3. [Problemas a resolver para el usuario](#problemas)
+5. [Planeación](#planeacion)
 
 ## <a name="herramientas"></a> Herramientas utilizadas:
 - Api de Mercado Libre para desplegar productos
@@ -139,7 +137,7 @@ Se tiene una retrospectiva y feedback diarios para ver lista de actividades que 
 			- Twitter
 	
 	## <a name="sketching"></a> Presentación ##
-	https://docs.google.com/presentation/d/1vcHdZ98FJUwKXecc59nS1Ty4rDqQy4sRnjPUItmau-g/edit?ts=5aa89972#slide=id.p
+	https://docs.google.com/presentation/d/1vcHdZ98FJUwKXecc59nS1Ty4rDqQy4sRnjPUItmau-g/edit?ts=5aa89972slide=id.p
 
 --------------
 Strongly Typed by HTML5 UP
