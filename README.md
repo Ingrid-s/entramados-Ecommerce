@@ -16,7 +16,7 @@
     1. [Usuario objetivo](# usuario)
     2. [Research](# esearch)
     3. [Problemas a resolver para el usuario](# problemas)
-5. [Planeación](#planeacion)
+5. [Planeación](# planeacion)
 
 ## <a name="herramientas"></a> Herramientas utilizadas:
 - Api de Mercado Libre para desplegar productos
