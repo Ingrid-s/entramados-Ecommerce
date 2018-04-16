@@ -1,4 +1,4 @@
-#ENTRAMADOS e-comerce 
+#ENTRAMADOS e-commerce 
 
 ### Vista previa 
 ![entramados](https://user-images.githubusercontent.com/32857528/38595904-0671e49a-3d14-11e8-9214-45ef7d1d1668.png)
@@ -29,7 +29,7 @@
 
 ## <a name="descripcion"></a> Descripción de producto:
 
-- Actualmente entramados e-comerce es una app móvil dedicada a la difusión y venta de téxtiles artesanales de marca propia "Entramados", a la par consumimos la API de mercado libre pues era un requerimiento puntual para este producto.
+- Actualmente entramados e-commerce es una app móvil dedicada a la difusión y venta de téxtiles artesanales de marca propia "Entramados", a la par consumimos la API de mercado libre pues era un requerimiento puntual para este producto.
 - Con esta app, el usuario tendrá a su disposición lo siguiente:
     - Conocer la marca Entramados y sus productos y realizar la seleccion de uno o varios productos para colocarlos en el carrito de compras.
     - Consultar el catálogo de productos proveniente de mercado libre y realizar la seleccion de uno o varios productos para colocarlos en el carrito de compras.
